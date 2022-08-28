@@ -1,0 +1,436 @@
+image: "/resources/sprites/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png"
+tile_width: 32
+tile_height: 32
+tile_margin: 0
+tile_spacing: 0
+collision: "/resources/sprites/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png"
+material_tag: "tile"
+convex_hulls {
+  index: 0
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 6
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 10
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 16
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 16
+  count: 8
+  collision_group: "default"
+}
+convex_hulls {
+  index: 24
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 24
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 28
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 33
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 33
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 37
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 41
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 41
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 46
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 50
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 50
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 55
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 55
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 61
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 65
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 71
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 71
+  count: 8
+  collision_group: "default"
+}
+convex_hulls {
+  index: 79
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 79
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 83
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 87
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 87
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 92
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 97
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 97
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 102
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 107
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 107
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 111
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 116
+  count: 8
+  collision_group: "default"
+}
+convex_hulls {
+  index: 124
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 130
+  count: 9
+  collision_group: "default"
+}
+convex_hulls {
+  index: 139
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 139
+  count: 12
+  collision_group: "default"
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 151
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 157
+  count: 7
+  collision_group: "default"
+}
+convex_hulls {
+  index: 164
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 164
+  count: 4
+  collision_group: "default"
+}
+convex_hulls {
+  index: 168
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 173
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 173
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 179
+  count: 5
+  collision_group: "default"
+}
+convex_hulls {
+  index: 184
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 184
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 190
+  count: 7
+  collision_group: "default"
+}
+convex_hulls {
+  index: 197
+  count: 8
+  collision_group: "default"
+}
+convex_hulls {
+  index: 205
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 211
+  count: 9
+  collision_group: "default"
+}
+convex_hulls {
+  index: 220
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 220
+  count: 12
+  collision_group: "default"
+}
+convex_hulls {
+  index: 232
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 232
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 238
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 244
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 244
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 250
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 256
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 256
+  count: 6
+  collision_group: "default"
+}
+convex_hulls {
+  index: 262
+  count: 7
+  collision_group: "default"
+}
+convex_hulls {
+  index: 269
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 269
+  count: 8
+  collision_group: "default"
+}
+convex_hulls {
+  index: 277
+  count: 9
+  collision_group: "default"
+}
+collision_groups: "default"
+extrude_borders: 2
+inner_padding: 0
+sprite_trim_mode: SPRITE_TRIM_MODE_OFF

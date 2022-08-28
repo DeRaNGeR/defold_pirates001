@@ -1,0 +1,79 @@
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Additional Sky.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Additional Water.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/BG Image.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Big Clouds.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Small Cloud 1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Small Cloud 2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Small Cloud 3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Big 01.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Big 02.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Big 03.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Big 04.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Medium 01.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Medium 02.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Medium 03.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Medium 04.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Small 01.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Small 02.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Small 03.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/resources/sprites/Palm Tree Island/Sprites/Background/Water Reflect Small 04.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
